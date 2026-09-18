@@ -1,0 +1,6 @@
+[
+  {"question": "How many adults were enrolled?", "expected_text": "120 adults", "document": "trial.pdf", "page": 1},
+  {"question": "How much did treatment reduce pain?", "expected_text": "35 percent", "document": "trial.pdf", "page": 2},
+  {"question": "Which biomarker was measured?", "expected_text": "HDL cholesterol", "document": "methods.pdf", "page": 1},
+  {"question": "What was the satellite orbital altitude?", "abstain": true}
+]
